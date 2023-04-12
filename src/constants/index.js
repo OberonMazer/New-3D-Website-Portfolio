@@ -134,6 +134,14 @@ import {
       designation: "Colleague",
       company: "IFRJ",
       image: "https://media.licdn.com/dms/image/D4D03AQHHABZY69Xsuw/profile-displayphoto-shrink_800_800/0/1677443752252?e=1686787200&v=beta&t=p822z6dkwpZDXZ2R4B3gQp_iz_qp6HynM0kHBkNc6Pw",
+    },
+    {
+      testimonial:
+        "An excellent professional.",
+      name: "Pedro Henrique",
+      designation: "Lead Programmer",
+      company: "Triple Eleven Game Studio",
+      image: "https://media.licdn.com/dms/image/C4D03AQFNRkOXJtLd8A/profile-displayphoto-shrink_800_800/0/1652961516292?e=1686787200&v=beta&t=BWL38wI6tA5l8_8s3p32Qlgw5xN7OquVIOuPKwMh7Ck",
     }
   ];
   
